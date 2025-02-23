@@ -1,2 +1,2 @@
-this is the first commit on master
-on main branch extra commit for conflict.
+CONFLICTING CHANGE
+
